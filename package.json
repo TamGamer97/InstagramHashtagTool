@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "cross-fetch": "^3.1.5",
+    "electron-packager": "^15.5.1",
+    "express": "^4.18.1",
+    "fetch-with-proxy": "^3.0.1",
+    "https-proxy-agent": "^5.0.1",
+    "puppeteer": "^14.0.0",
+    "puppeteer-extra": "^3.2.3",
+    "puppeteer-extra-plugin-stealth": "^2.9.0",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "name": "Instagram-Hashtag-Tool",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "electron": "^18.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
